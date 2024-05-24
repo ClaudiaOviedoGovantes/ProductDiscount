@@ -312,7 +312,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     bottom: 5,
     position: 'absolute',
-    width: '90%'
+    width: '30%'
   },
   // BEGIN SOLUTION
   badge: {
